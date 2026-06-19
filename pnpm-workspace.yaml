@@ -2,7 +2,7 @@ allowBuilds:
   esbuild: true
   sharp: true
   ttf2woff2: true
-  workerd: set this to true or false
+  workerd: true
 minimumReleaseAgeExclude:
   - '@astrojs/*'
   - astro
